@@ -23,7 +23,7 @@ Follow these steps to create a new React project:
 
 ```shell
 npx create-react-app my-react-app
-
+```
 Replace my-react-app with the desired name for your project.
 
 Once the command finishes executing, navigate into the project directory:
@@ -31,6 +31,7 @@ Once the command finishes executing, navigate into the project directory:
 ```shell
 Copy code
 cd my-react-app
+
 Commit: Initial Project Setup
 Commit your code to mark the initial project setup. You can use Git version control to create a new commit with the following message:
 
