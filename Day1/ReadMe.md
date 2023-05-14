@@ -29,18 +29,18 @@ Replace my-react-app with the desired name for your project.
 Once the command finishes executing, navigate into the project directory:
 
 ```shell
-Copy code
 cd my-react-app
+```
+Copy code
 
 Commit: Initial Project Setup
 Commit your code to mark the initial project setup. You can use Git version control to create a new commit with the following message:
 
 ```shell
-Copy code
 git init
 git add .
 git commit -m "Initial project setup"
-
+```
 Congratulations! You have set up the development environment for your React project. Now you're ready to dive into building React components and exploring the world of React!
 
 Stay tuned for Day 2, where we will cover React basics and create our first component.
